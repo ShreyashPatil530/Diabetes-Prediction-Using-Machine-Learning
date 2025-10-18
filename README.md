@@ -90,7 +90,7 @@ This project implements a complete machine learning pipeline to predict diabetes
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/yourusername/diabetes-prediction-ml.git
+git clone https://github.com/ShreyashPatil530/Diabetes-Prediction-Using-Machine-Learning.git
 cd diabetes-prediction-ml
 ```
 
@@ -210,15 +210,6 @@ diabetes-prediction-ml/
 | **F1-Score** | 74.36% |
 | **ROC-AUC** | 0.8245 |
 
-### Model Comparison:
-![Model Comparison](images/model_comparison.png)
-
-### Confusion Matrix:
-![Confusion Matrix](images/confusion_matrix.png)
-
-### ROC Curve:
-![ROC Curve](images/roc_curve.png)
-
 ---
 
 ## 🔬 Results
@@ -230,8 +221,7 @@ diabetes-prediction-ml/
 4. Feature engineering improved model accuracy by ~3%
 5. The model can identify high-risk patients with 82% confidence
 
-### Feature Importance:
-![Feature Importance](images/feature_importance.png)
+
 
 ### Business Impact:
 - Early identification of high-risk patients
@@ -303,14 +293,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 📞 Contact
+##  Contact
 
-**Your Name**
-- 📧 Email: your.email@example.com
-- 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- 🐱 GitHub: [@yourusername](https://github.com/yourusername)
-- 📊 Kaggle: [Your Kaggle](https://www.kaggle.com/yourusername)
-- 🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com)
+**Shreyash Patil**
+- 📧 Email: shreyashpatil530@gmail.com
+- 💼 LinkedIn: [LinkedIn](https://linkedin.com/in/yourprofile)
+- 🐱 GitHub: [sp](https://github.com/ShreyashPatil530/Diabetes-Prediction-Using-Machine-Learning)
+- 📊 Kaggle: [Kaggle](https://www.kaggle.com/code/shreyashpatil217/diabetes-prediction-using-machine-learning)
+- 🌐 Portfolio: [website.com](https://shreyash-patil-portfolio1.netlify.app/)
 
 ---
 
@@ -337,6 +327,6 @@ If you find this project helpful, please consider giving it a star! ⭐
 
 ---
 
-**Made with ❤️ by [Your Name]**
+**Made with  by [Shreyash Patil]**
 
-*Last Updated: October 2025*
+*Last Updated: 18 October 2025*
