@@ -3,7 +3,7 @@
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.0+-orange.svg)](https://scikit-learn.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Kaggle](https://img.shields.io/badge/Kaggle-View%20Notebook-20BEFF)](https://www.kaggle.com/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-View%20Notebook-20BEFF)](https://www.kaggle.com/code/shreyashpatil217/diabetes-prediction-using-machine-learning)
 
 > A comprehensive end-to-end machine learning project for predicting diabetes in patients using the Pima Indians Diabetes Database.
 
@@ -327,6 +327,6 @@ If you find this project helpful, please consider giving it a star! ⭐
 
 ---
 
-**Made with  by [Shreyash Patil]**
+**Made with  by Shreyash Patil**
 
 *Last Updated: 18 October 2025*
