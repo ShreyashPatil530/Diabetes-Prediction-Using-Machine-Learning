@@ -7,7 +7,6 @@
 
 > A comprehensive end-to-end machine learning project for predicting diabetes in patients using the Pima Indians Diabetes Database.
 
-![Project Banner](images/banner.png)
 
 ---
 
